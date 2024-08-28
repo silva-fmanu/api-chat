@@ -1,0 +1,32 @@
+{
+  "name": "info631b-chatapi",
+  "version": "1.0.0",
+  "description": "\"# chatAPI\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseinaciobelotto/chatAPI.git"
+  },
+  "keywords": [
+    "node",
+    "chat",
+    "api"
+  ],
+  "author": "José Inácio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseinaciobelotto/chatAPI/issues"
+  },
+  "homepage": "https://github.com/joseinaciobelotto/chatAPI#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.8.0",
+    "nodemon": "^3.1.4"
+  }
+}
