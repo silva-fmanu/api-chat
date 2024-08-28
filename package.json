@@ -1,5 +1,5 @@
 {
-  "name": "info631b-chatapi",
+  "name": "chat-api",
   "version": "1.0.0",
   "description": "\"# chatAPI\"",
   "main": "index.js",
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joseinaciobelotto/chatAPI.git"
+    "url": "git+https://github.com/silva-fmanu/chat-api.git"
   },
   "keywords": [
     "node",
     "chat",
     "api"
   ],
-  "author": "José Inácio",
+  "author": "Manuela Silva",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joseinaciobelotto/chatAPI/issues"
+    "url": "https://github.com/silva-fmanu/chat-api.git/issues"
   },
-  "homepage": "https://github.com/joseinaciobelotto/chatAPI#readme",
+  "homepage": "https://github.com/silva-fmanu/chat-api.git#readme",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
